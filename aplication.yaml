@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: "https://github.com/juan0331camilo/BootCampDevops"
-    path: labs/lab-10-kubernetes-argocd/dev
+    repoURL: "https://github.com/juan0331camilo/ArgoCD.git"
+    path: Dev
     targetRevision: HEAD
   destination:
     server: "https://kubernetes.default.svc"
